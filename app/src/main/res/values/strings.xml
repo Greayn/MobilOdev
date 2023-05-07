@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mezunlar</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Kayıt Ol</string>
+    <string name="add_announcement_title">Yeni Duyuru</string>
+    <string name="add_gallery_item_title">Yeni Galeri Öğesi</string>
+    <string name="activity_edit_profile_title">Profili Düzenle</string>
+    <string name="prompt_email">E-posta</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Giriş yap ya da kaydol</string>
+    <string name="action_sign_in_short">Giriş yap</string>
+    <string name="welcome">"Hoş geldiniz !"</string>
+    <string name="invalid_username">Geçersiz kullanıcı adı</string>
+    <string name="invalid_password">Şifre 5\'den fazla karakter içermeli</string>
+    <string name="login_failed">"Giriş yapılamadı"</string>
+    <string name="send_verification_email">Doğrulama kodu gönder</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145448474169",
+    "project_id": "gradshw",
+    "storage_bucket": "gradshw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145448474169:android:6b65686dc7f351c90b5fe8",
+        "android_client_info": {
+          "package_name": "com.example.grads_hw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145448474169-lhoq46u5qhrfjpq9f32j08bhd5ce9ifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvQhRerucKz9tEponwMRTKw04gMZb1F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145448474169-lhoq46u5qhrfjpq9f32j08bhd5ce9ifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
